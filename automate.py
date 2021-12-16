@@ -1,3 +1,5 @@
+# ~-~ Shahar Yemini 5782 ~-~
+
 from time import sleep
 
 import cv2
